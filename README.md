@@ -4,6 +4,6 @@
 
 svg 资源来源于
 
-- [https://www.logo.wine]
-- [https://www.freelogovectors.net/]
-- [https://logowik.com/]
+- <https://www.logo.wine>
+- <https://www.freelogovectors.net/>
+- <https://logowik.com/>
